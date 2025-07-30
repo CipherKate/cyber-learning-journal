@@ -19,15 +19,15 @@
 
 ## B. Must-know “number” questions
 
-| Number | What it usually points to | Memory hook |
-|--------|---------------------------|-------------|
-| **7** | OSI layers (1 Physical … 7 Application) | “Please Do Not Throw Sausage Pizza Away.” |
-| **20 / 21** | FTP Data / Control ports | “FTP is **twenty-one pilots** moving data.” |
-| **22** | SSH | Double **S** → port **22**. |
-| **23** | Telnet (insecure) | One step after SSH—but insecure. |
-| **25** | SMTP (e-mail out) | “Wanna **send** mail? High-five 25.” |
-| **53** | DNS | 5-letter word “DNS” ends with 3 letters → **53**. |
-| **80 / 443** | HTTP / HTTPS | **443 S** for “Secure”. |
-| **110 / 143** | POP3 / IMAP | Older mail retrieval protocols. |
-| **3389** | RDP (Remote Desktop) | Looks like “R D P” on a numpad. |
-| **128 / 192 / 256** | Common AES key sizes | “AES grows by 64-bit steps.” |
+| Number  | What it usually points to                        |
+|---------|--------------------------------------------------|
+| **7**   | OSI layers (1 Physical … 7 Application)          |
+| **20 / 21** | FTP Data / Control ports                       |
+| **22**  | SSH (Secure Shell)                               |
+| **23**  | Telnet (insecure)                                |
+| **25**  | SMTP (e-mail out)                                |
+| **53**  | DNS (Domain Name System)                         |
+| **80 / 443** | HTTP / HTTPS                                  |
+| **110 / 143** | POP3 / IMAP (legacy mail retrieval)          |
+| **3389** | RDP (Remote Desktop Protocol)                   |
+| **128 / 192 / 256** | Common AES encryption key sizes         |
