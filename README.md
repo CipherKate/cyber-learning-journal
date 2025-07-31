@@ -19,5 +19,5 @@ This repo tracks my hands-on learning across:
 
 ## 🛠 Featured Projects
 
-- [Acronym & Port Cheat Sheet](Week-02/CC/cheat-sheets/port-acronyms.md)  
+- [Acronym & Port Cheat Sheet](Week-02/CC/cheat-sheets/ports-acronyms.md)  
 - [Learning Journal – GitHub](https://github.com/kate--newman/cyber-learning-journal)
