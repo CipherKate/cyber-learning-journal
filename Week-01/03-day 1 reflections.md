@@ -1,16 +1,16 @@
-# 🧠 Progress Journal – July 30, 2025 ✅  
+# Progress Journal – July 30, 2025 ✅  
 **Focus:** ISC2 CC Certification + TryHackMe Foundations
 
 ---
 
-## 🎯 Daily Goals
+## Daily Goals
 - Complete **Domain 1: Security Principles**  
 - Reassess path: shift focus to ISC2 CC over TryHackMe  
 - Review pre-assessment results and align strategy
 
 ---
 
-## ✅ What I Did Today
+## What I Did Today
 
 - Finished the **ISC2 CC Course Intro** and **Pre-assessment**
 - Completed **Domain 1: Security Principles**, including the quiz + cert
@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 Progress Screenshots
+## Progress Screenshots
 
 ### ISC2 CC – Accuracy Breakdown (Post Pre-Assessment)
 ![Accuracy Screenshot](../assets/cc-pre-assessment-accuracy.png)
@@ -33,7 +33,7 @@
 
 ---
 
-## 💡 Reflections
+## Reflections
 
 - I’m **really proud** to have completed Domain 1 so quickly. It was definitely the most intuitive material for me so far, and I felt confident on the quiz.
 - Domain 1 was also one of my **highest-scoring areas** in the pre-assessment, so I know the rest may not come as easily—but I feel ready.
@@ -42,7 +42,7 @@
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 
 - Start **Domain 2: Incident Response, BC & DR**
 - Upload the Domain 1 certificate and link in GitHub
