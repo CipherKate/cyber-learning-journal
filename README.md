@@ -12,7 +12,6 @@ This repo tracks my hands-on learning across:
 ## 🗂️ Weekly Progress
 
 - [Week 01](Week-01/intro.md) – Setup, goals, first notes  
-- [Week 02](Week-02/CC/domain-1-notes.md) – Security Principles + TryHackMe Labs  
 - ...
 
 ---
