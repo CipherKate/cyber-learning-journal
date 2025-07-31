@@ -11,7 +11,7 @@ This repo tracks my hands-on learning across:
 
 ## 🗂️ Weekly Progress
 
-- [Week 01](Week-01/intro.md) – Setup, goals, first notes  
+- [Week 01](Week-01/intro.md) – Setup, goals, plan
 - ...
 
 ---
