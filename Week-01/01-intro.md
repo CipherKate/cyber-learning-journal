@@ -1,4 +1,4 @@
-# 🚀 Week 01 – Introduction & Setup
+# Week 01 – Introduction & Setup
 
 **Name:** Kate Newman  
 **GitHub Handle:** @KateSec  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Why I Started This Journal
+## Why I Started This Journal
 
 After earning a degree in international studies and working across nonprofits, activism, museums, customer service, and administration, I’ve decided to pivot into **cybersecurity**—a field that’s in-demand, futureproof, and intellectually engaging.
 
@@ -19,7 +19,7 @@ This repo is my **learning journal**. It’s where I’ll:
 
 ---
 
-## 🎯 Starting Goals
+## Starting Goals
 
 | Goal | Status |
 |------|--------|
@@ -31,7 +31,7 @@ This repo is my **learning journal**. It’s where I’ll:
 
 ---
 
-## 🧭 What I Know (and Don’t)
+## What I Know (and Don’t)
 
 ✅ Comfortable with:
 - Research, writing, and organizing ideas
