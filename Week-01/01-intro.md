@@ -46,7 +46,7 @@ This repo is my **learning journal**. It’s where I’ll:
 
 ---
 
-## 🧱 Stack I'm Starting With
+## Stack I'm Starting With
 
 - **Courses:** ISC2 CC, TryHackMe, WiCyS study groups
 - **Tools:** GitHub, Markdown, Canva (for notes), Google Sheets
