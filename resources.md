@@ -77,9 +77,9 @@ A curated list of cybersecurity programs and communities I want to explore.
 
 ---
 
-> 💬 *Tip:* Pair any structured training with free labs on [TryHackMe](https://tryhackme.com) or [Hack The Box](https://www.hackthebox.com/) for hands-on practice.
+> 💬 *Tip:* Pair any structured training with free labs on [TryHackMe](https://tryhackme.com) or [Hack The Box](https://www.hackthebox.com/) -hands-on practice.
 
- events, and a supportive community for women in the field.
+ events, supportive community for women in the field.
 
 ---
 
