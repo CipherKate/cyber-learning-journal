@@ -35,7 +35,7 @@
 
 ## Reflections
 
-- I’m **really proud** to have completed Domain 1 so quickly. It was definitely the most intuitive material for me so far, and I felt confident on the quiz.
+- I’m **really proud** to have completed Domain 1 so quickly. It was definitely the most intuitive material for me so far, and I felt confident answering all the questions.
 - Domain 1 was also one of my **highest-scoring areas** in the pre-assessment, so I know the rest may not come as easily—but I feel ready.
 - TryHackMe was useful for building context, but now that I’ve finished the “Intro to Cybersecurity” room, I’m pivoting hard to **focus on CC for the rest of the week**.
 - The goal is to complete **three domains total** this week if I can stay in flow.
