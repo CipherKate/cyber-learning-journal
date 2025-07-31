@@ -22,14 +22,14 @@
 ## Progress Screenshots
 
 ### ISC2 CC – Accuracy Breakdown (Post Pre-Assessment)
-![Accuracy Screenshot](../assets/cc-pre-assessment-accuracy)
+![Accuracy Screenshot](../assets.md/cc-pre-assessment-accuracy)
 
 > **89% overall** with **100% in Domain 1 and Domain 2**. Lowest: Network Security + Security Ops at 75%.
 
 ---
 
 ### TryHackMe Skills Matrix (Day 1)
-![Skills Matrix](../assets/tryhackme-skills-matrix)
+![Skills Matrix](../assets.md/tryhackme-skills-matrix)
 
 ---
 
