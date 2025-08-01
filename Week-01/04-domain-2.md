@@ -1,4 +1,4 @@
-# 🧠 ISC2 CC Study Journal – Domain 2: Incident Response, Business Continuity, and Disaster Recovery
+# ISC2 CC Study Journal – Domain 2: Incident Response, Business Continuity, and Disaster Recovery
 
 **Date Completed:** August 1, 2025  
 **Platform:** ISC2 Certified in Cybersecurity Course  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🗂️ Key Topics Covered
+## Key Topics Covered
 
 - **Incident Response (IR)**
   - Incident vs Event vs Adverse Event
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧾 Key Terms Learned
+## Key Terms Learned
 
 | Term | Definition |
 |------|------------|
@@ -40,7 +40,7 @@
 
 ---
 
-## 💡 Reflections
+## Reflections
 
 - This domain focuses on the **availability** piece of the CIA triad.
 - I noticed the ISC2 platform sometimes **skips material** (e.g., zero day, BIA) if I show early competency — but those concepts are still **testable**. I reviewed them separately through flashcards and quizzes.
@@ -49,7 +49,7 @@
 
 ---
 
-## 🧪 Practice Questions I Got Wrong (and Fixed)
+## Practice Questions I Got Wrong (and Fixed)
 
 **Q:** What is the next step after IR and BCP fail?  
 **A:** ✅ Disaster Recovery Plan (DRP)
