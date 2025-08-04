@@ -8,10 +8,10 @@ This repo captures my progress through certification training, practical experie
 
 ## Core Focus Areas
 
-- ✅ **ISC2 Certified in Cybersecurity (CC)** – structured course notes and exam prep  
-- ✅ **KC7 Labs** – incident response and threat hunting simulations  
-- ✅ **TryHackMe Pre-Security** – completed 4 intro rooms (paused for now)  
-- 📁 Weekly logs, personal reflections, tools, and cheat sheets
+- **ISC2 Certified in Cybersecurity (CC)** – structured course notes and exam prep  
+- **KC7 Labs** – incident response and threat hunting simulations  
+- **TryHackMe Pre-Security** – completed 4 intro rooms (paused for now)  
+- Weekly logs, personal reflections, tools, and cheat sheets
 
 ---
 
@@ -19,15 +19,15 @@ This repo captures my progress through certification training, practical experie
 
 > Notes, summaries, and quizzes by domain
 
-- [`Domain 1 – Security Principles`](ISC2-CC-notes/domain-1-security-principles.md) ✅  
-- [`Domain 2 – Incident Response & Business Continuity`](ISC2-CC-notes/domain-2.md) ⏳  
+- [`Domain 1 – Security Principles`](ISC2-CC-notes/domain-01.md) ✅  
+- [`Domain 2 – Incident Response & Business Continuity`](ISC2-CC-notes/domain-02.md) ⏳  
 - Domain 3 – Access Control & Identity Management (coming soon)
 
 ---
 
 ## KC7 – Incident Reports
 
-> Practical SIEM-based investigation exercises
+> Practical SIEM-based investigation exercises. Level 19 as of 8/4/25
 
 - [`Jojo's Hospital`](KC7-incident-reports/Jojo's-Hospital.md) – Phishing email and payload path  
 - Additional cases in progress
@@ -62,7 +62,7 @@ Will resume after ISC2 CC certification is complete.
 
 ---
 
-## 🎯 Upcoming Goals
+## Upcoming Goals
 
 - Complete ISC2 Domains 4 & 5
 - Study for ISC2 CC Exam
@@ -72,7 +72,7 @@ Will resume after ISC2 CC certification is complete.
 
 ---
 
-## 👩‍💻 About
+## About
 
 I'm transitioning into cybersecurity from a background in nonprofit operations and digital strategy.  
 This journal documents my skills development with a focus on:
