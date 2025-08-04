@@ -12,7 +12,7 @@ Organizations are guided by **regulations**, **standards**, **policies**, and **
 3. **Policies:** Organizational rules derived from standards.
 4. **Procedures:** Step-by-step actions to implement policies.
 
-> 📖 Example: HIPAA mandates PHI protection. Organizations adopt standards (e.g., NIST), then implement policies and procedures to ensure compliance.
+> Example: HIPAA mandates PHI protection. Organizations adopt standards (e.g., NIST), then implement policies and procedures to ensure compliance.
 
 ---
 
