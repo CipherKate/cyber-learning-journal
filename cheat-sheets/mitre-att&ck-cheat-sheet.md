@@ -67,7 +67,6 @@ A personal reference sheet for common adversary TTPs, organized by the MITRE ATT
 
 ## 📚 Resources
 - [MITRE ATT&CK Website](https://attack.mitre.org/)
-- [ATT&CK for Enterprise PDF](https://attack.mitre.org/resources/enterprise-matrix.pdf)
 - [Red Canary’s Atomic Red Team](https://atomicredteam.io/)
 - [Sigma Rules Mapping](https://github.com/SigmaHQ/sigma)
 
