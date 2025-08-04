@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Learning Journal
+# Cybersecurity Learning Journal
 
 Welcome to my cybersecurity learning journal, a public record of my hands-on learning and transition into the field.
 
@@ -6,7 +6,7 @@ This repo captures my progress through certification training, practical experie
 
 ---
 
-## 🔍 Core Focus Areas
+## Core Focus Areas
 
 - ✅ **ISC2 Certified in Cybersecurity (CC)** – structured course notes and exam prep  
 - ✅ **KC7 Labs** – incident response and threat hunting simulations  
