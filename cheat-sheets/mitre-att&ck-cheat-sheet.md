@@ -55,7 +55,7 @@ A personal reference sheet for common adversary TTPs, organized by the MITRE ATT
 
 ---
 
-## 🧪 Sample KC7 Application
+## Sample KC7 Application
 
 | Incident | Technique Used | ATT&CK ID | Phase |
 |---------|----------------|-----------|-------|
@@ -65,8 +65,7 @@ A personal reference sheet for common adversary TTPs, organized by the MITRE ATT
 
 ---
 
-## 📚 Resources
-- [MITRE ATT&CK Website](https://attack.mitre.org/)
+## Additional Resources
 - [Red Canary’s Atomic Red Team](https://atomicredteam.io/)
 - [Sigma Rules Mapping](https://github.com/SigmaHQ/sigma)
 
