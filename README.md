@@ -60,7 +60,7 @@ Will resume after ISC2 CC certification is complete.
 - [`01-ports-acronyms.md`](cheat-sheets/01-ports-acronyms.md) – Cheat sheet for protocols, ports, and acronyms  
 - [`assets.md`](assets.md) – Right now, this has screenshots of the ISC2 and TryHackMe certificates I've gotten
 - [`resources.md`](resources.md) – Saved links to free tools, communities, and study materials
-- (https://quizlet.com/user/kmn2426/folders/intro-to-cyber-security) - My quizlet study guides and flashcards for ISC2 CC
+- ['Quizlet'](https://quizlet.com/user/kmn2426/folders/intro-to-cyber-security) - My quizlet study guides and flashcards for ISC2 CC
 
 ---
 
