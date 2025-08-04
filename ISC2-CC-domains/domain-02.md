@@ -1,4 +1,4 @@
-# ISC2 CC Study Journal – Domain 2: Incident Response, Business Continuity, and Disaster Recovery
+# ISC2 Certified in Cybersecurity – Domain 2: Incident Response, Business Continuity, and Disaster Recovery
 
 **Date Completed:** August 1, 2025  
 **Platform:** ISC2 Certified in Cybersecurity Course  
