@@ -19,15 +19,16 @@ This repo captures my progress through certification training, practical experie
 
 > Notes, summaries, and quizzes by domain
 
-- [`Domain 1 – Security Principles`](ISC2-CC-notes/domain-01.md) ✅  
-- [`Domain 2 – Incident Response & Business Continuity`](ISC2-CC-notes/domain-02.md) ⏳  
+- [`Domain 1 – Security Principles`](ISC2-CC-notes/domain-01.md) 
+- [`Domain 2 – Incident Response & Business Continuity`](ISC2-CC-notes/domain-02.md) 
 - Domain 3 – Access Control & Identity Management (coming soon)
 
 ---
 
 ## KC7 – Incident Reports
 
-> Practical SIEM-based investigation exercises. Level 19 as of 8/4/25
+> Practical SIEM-based investigation exercises. Level 19 as of 8/4/25.
+> I only started taking notes on my 4th case, but plan to take comprehensive notes for the future cases.
 
 - [`Jojo's Hospital`](KC7-incident-reports/Jojo's-Hospital.md) – Phishing email and payload path  
 - Additional cases in progress
@@ -50,14 +51,14 @@ Will resume after ISC2 CC certification is complete.
 ## Weekly Logs
 
 - [`Week 01`](Week-01/intro.md) – Setup, goals, and reflections  
-- Future weeks: `/Week-02/`, `/Week-03/` (coming soon)
+- Unsure if will continue with week folders, may just create a journal file for daily or weekly reflections.
 
 ---
 
 ## Resources
 
 - [`01-ports-acronyms.md`](cheat-sheets/01-ports-acronyms.md) – Cheat sheet for protocols, ports, and acronyms  
-- [`assets.md`](assets.md) – Screenshots, lab results, and visuals  
+- [`assets.md`](assets.md) – Right now, this has screenshots of the ISC2 and TryHackMe certificates I've gotten
 - [`resources.md`](resources.md) – Saved links to free tools, communities, and study materials
 
 ---
@@ -66,7 +67,7 @@ Will resume after ISC2 CC certification is complete.
 
 - Complete ISC2 Domains 4 & 5
 - Study for ISC2 CC Exam
-- Publish full KC7 investigation reports  
+- Publish more KC7 investigation reports  
 - Document GitHub Pages portfolio setup  
 - Launch home lab & SIEM environment  
 
