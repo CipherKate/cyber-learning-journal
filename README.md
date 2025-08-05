@@ -20,8 +20,10 @@ This repo captures my progress through certification training, practical experie
 > Notes, summaries, and quizzes by domain
 
 - [`Domain 1 – Security Principles`](ISC2-CC-notes/domain-01.md) 
-- [`Domain 2 – Incident Response & Business Continuity`](ISC2-CC-notes/domain-02.md) 
-- Domain 3 – Access Control & Identity Management (coming soon)
+- [`Domain 2 – Incident Response, Business Continuity, and Disaster Recovery Concepts`](ISC2-CC-notes/domain-02.md) 
+- [`Domain 3 – Access Control Concepts`] (ISC2-CC-notes/doimain-03.md)
+- [`Domain 4 - Network Security`] (ISC2-CC-notes/domain-04.med)
+- Domain 5- Security Operations (coming soon)
 
 ---
 
@@ -66,7 +68,7 @@ Will resume after ISC2 CC certification is complete.
 
 ## Upcoming Goals
 
-- Complete ISC2 Domains 4 & 5
+- Complete ISC2 Domain 5
 - Study for ISC2 CC Exam
 - Publish more KC7 investigation reports  
 - Document GitHub Pages portfolio setup  
