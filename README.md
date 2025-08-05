@@ -21,8 +21,8 @@ This repo captures my progress through certification training, practical experie
 
 - [`Domain 1 – Security Principles`](ISC2-CC-notes/domain-01.md) 
 - [`Domain 2 – Incident Response, Business Continuity, and Disaster Recovery Concepts`](ISC2-CC-notes/domain-02.md) 
-- [`Domain 3 – Access Control Concepts`] (ISC2-CC-notes/doimain-03.md)
-- [`Domain 4 - Network Security`] (ISC2-CC-notes/domain-04.med)
+- [`Domain 3 – Access Control Concepts`](ISC2-CC-notes/domain-03.md)
+- [`Domain 4 - Network Security`](ISC2-CC-notes/domain-04.med)
 - Domain 5- Security Operations (coming soon)
 
 ---
